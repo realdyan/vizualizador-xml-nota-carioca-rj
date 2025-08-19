@@ -86,7 +86,3 @@ Como Usar
 Contribuição
 
 Contribuições são muito bem-vindas! Se você tiver sugestões, melhorias ou correções de bugs, por favor, abra uma issue ou envie um pull request.
-
-Licença
-
-Este projeto é distribuído sob a licença [Nome da Licença]. Veja o arquivo LICENSE para mais detalhes.
